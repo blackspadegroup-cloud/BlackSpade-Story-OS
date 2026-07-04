@@ -88,9 +88,3 @@ canon_level: core
 
 ---
 
-## 相关剧集
-
-- [[03_STORIES/SEASON_01/ACT_01/EP_001.md|EP-001：她把千亿总裁骂了一顿]]
-- [[03_STORIES/SEASON_01/ACT_01/EP_002.md|EP-002：所有人都以为她完了]]
-- [[03_STORIES/SEASON_01/ACT_01/EP_003.md|EP-003：我不是在追你]]
-- [[03_STORIES/SEASON_01/ACT_01/EP_004.md|EP-004：我拒绝]]
