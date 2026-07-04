@@ -213,5 +213,13 @@ BSOS 的最高信息原则。所有正式内容以 Obsidian Repository 为准。
 
 ---
 
+## 相关文件
+
+- [[000_BSOS_PROTOCOL.md|BSOS Protocol]] — 系统技术规范
+- [[001_THE_BLACKSPADE_WAY.md|黑桃之道]] — 创作信仰
+- [[002_CREATION_CONSTITUTION.md|创作宪法]] — 最高创作法律
+
+---
+
 *本词典是 BSOS Foundation 的一部分。新增术语须经 BSOS Guardian 确认。*
 *最后更新：2026-07-04*

@@ -163,5 +163,13 @@ canon_level: immutable
 
 ---
 
+## 相关文件
+
+- [[000_BSOS_PROTOCOL.md|BSOS Protocol]] — 系统技术规范
+- [[001_THE_BLACKSPADE_WAY.md|黑桃之道]] — 创作信仰
+- [[003_GLOSSARY.md|BSOS 名词词典]] — 统一术语
+
+---
+
 *本宪法置于 10_FOUNDATIONS 目录，为 BSOS 不可变规范（immutable canon）的核心文件。*
 *任何衍生文件、大纲、剧本、物料均须在本宪法框架内运作。*

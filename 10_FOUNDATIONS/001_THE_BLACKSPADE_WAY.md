@@ -150,3 +150,11 @@ BlackSpade 相信相反的方向——**人物创造剧情。**
 ---
 
 **黑桃之道，不是写故事之道。是创造值得被记住的世界之道。**
+
+---
+
+## 相关文件
+
+- [[000_BSOS_PROTOCOL.md|BSOS Protocol]] — 系统技术规范
+- [[002_CREATION_CONSTITUTION.md|创作宪法]] — 最高创作法律
+- [[003_GLOSSARY.md|BSOS 名词词典]] — 统一术语
