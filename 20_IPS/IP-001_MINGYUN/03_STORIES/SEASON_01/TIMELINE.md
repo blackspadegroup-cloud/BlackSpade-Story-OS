@@ -1,0 +1,51 @@
+---
+title: "Season 1 Timeline"
+type: timeline
+ip: IP-001
+official_title: "我要钱，我不要总裁"
+season: 01
+version: 1.0
+status: active
+created: 2026-07-04
+author: Cato (BSOS Guardian)
+tags: [bsos, ip-001, story, timeline]
+canon_level: core
+---
+
+# Season 1 Timeline
+
+> 按 Act 划分的故事时间线。持续更新。
+
+---
+
+## ACT-01｜命运开始交错（EP-001 ~ EP-015）
+
+| 集数 | 时间点 | 地点 | 核心事件 | 涉及角色 |
+|------|--------|------|---------|---------|
+| EP-001 | Day 1 | 意大利私人小岛 / 游艇派对 | 香槟塔意外 → 林知夏泼酒 → 陆景深注目 | CH-001, CH-002 |
+| EP-002 | Day 1（当晚） | 游艇 VIP 贵宾室 | "泼得漂亮" — 第一次正面对话 | CH-001, CH-002 |
+| EP-003 | Day 1（深夜） | VIP 贵宾室 | 工作邀约被拒 | CH-001, CH-002 |
+| EP-004 | Day 1（深夜） | 游艇出口 | 陆景深尊重决定 → 顾言川登场 | CH-001, CH-002, **CH-003** |
+| EP-005 | TBD | TBD | TBD | TBD |
+| EP-006~015 | TBD | TBD | TBD | TBD |
+
+### ACT-01 Time Span
+
+开始：EP-001（意大利游艇派对当晚）
+结束：EP-015（三位主角首次同场）
+
+预计时间跨度：1-2 周（故事时间）
+
+---
+
+## ACT-02｜（待创建）（EP-016 ~ EP-030）
+
+- 待填充
+
+## ACT-03｜（待创建）（EP-031 ~ EP-045）
+
+- 待填充
+
+## ACT-04｜（待创建）（EP-046 ~ EP-060）
+
+- 待填充
