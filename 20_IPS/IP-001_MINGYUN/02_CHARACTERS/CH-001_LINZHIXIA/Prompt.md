@@ -75,8 +75,8 @@ tags: [bsos, ip-001, character, prompt, ch-001]
 ### 1.5 当前故事上下文（S1）
 
 ```
-故事开始时，林知夏在一笔重大交易中遇到了对手——顾穆一（CH-002）。
-顾穆一是她遇到的第一个让她「看不清」的人。
+故事开始时，林知夏在一笔重大交易中遇到了对手——陆景深（CH-002）。
+陆景深是她遇到的第一个让她「看不清」的人。
 他有钱，但不像她见过的任何有钱人。他总能看穿她的伪装。
 这让她感到不安——因为不安意味着这个人对她来说是重要的。
 她的故事主线是从「不需要任何人」到「承认自己也渴望被理解和被爱」。
@@ -174,7 +174,7 @@ Neon noir aesthetic, cool tones with warm accent lights.
 
 ## 3. 视频生成 Prompt
 
-### 3.1 场景：第一次与顾穆一交锋
+### 3.1 场景：第一次与陆景深交锋
 
 ```
 A high-stakes negotiation scene. She sits across from a man in a sleek conference room.
