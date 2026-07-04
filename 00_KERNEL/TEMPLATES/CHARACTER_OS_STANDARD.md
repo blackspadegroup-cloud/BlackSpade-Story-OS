@@ -55,6 +55,7 @@ CH-NNN_NAME/
 ├── Relationship_Engine.md     ← Layer 10
 ├── Growth_Engine.md           ← Layer 11
 ├── Performance.md             ← Layer 12
+├── Visual_Language.md         ← Module 13
 │
 ├── Prompt.md                  ← Output 02: AI 角色生成 Prompt
 ├── Dialogue_Samples.md        ← Output 03: 角色经典对白样本
@@ -677,6 +678,29 @@ TA 需要经历什么才能成长？
 
 ---
 
+## Module 13 — Character Visual Language（角色视觉语言）
+
+> 所有角色必须拥有属于自己的视觉语言。作为 AI 视频制作、Storyboard、分镜设计、导演语言、Character Branding 的统一标准。
+
+### 格式
+
+#### Visual Symbol（视觉符号）
+角色最具辨识度的视觉标记。
+
+#### Signature Action（标志性动作）
+角色反复出现的行为动作。
+
+#### Signature Object（标志性物件）
+与角色深度绑定的物品。
+
+#### Visual Motif（视觉主题）
+贯穿全剧的视觉叙事语言。
+
+### Production Rules（制作规则）
+定义该角色视觉语言在剧中的使用规则。
+
+---
+
 ## Output 01 — Character Snapshot
 
 **用途：30 秒恢复角色上下文。AI 默认读取入口。**
@@ -720,7 +744,7 @@ TA 需要经历什么才能成长？
 
 ```yaml
 ---
-type: identity | history | core | mind | emotion | shadow | decision_engine | behaviour | voice_engine | relationship_engine | growth_engine | performance | snapshot | prompt | dialogue
+type: identity | history | core | mind | emotion | shadow | decision_engine | behaviour | voice_engine | relationship_engine | growth_engine | performance | visual_language | snapshot | prompt | dialogue
 ch_code: "CH-NNN"
 name: "角色全名"
 ip: "IP-NNN"
