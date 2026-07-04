@@ -17,7 +17,7 @@ canon_level: immutable
 
 ## BSOS 全局宪法
 
-IP-001 严格遵循 **BSOS 创作宪法**（详见 [[00_KERNEL/000_CONSTITUTION.md|000_CONSTITUTION.md]]），包括但不限于：
+IP-001 严格遵循 **BSOS 创作宪法**（详见 [[10_FOUNDATIONS/002_CREATION_CONSTITUTION.md|创作宪法]]），包括但不限于：
 
 - Never Explain. Always Reveal.
 - 人物创造剧情，不是剧情创造人物
