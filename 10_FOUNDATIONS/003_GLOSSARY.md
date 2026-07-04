@@ -3,223 +3,235 @@ title: "BSOS 名词词典（Glossary）"
 work_order: BSOS-0-004
 type: glossary
 version: 1.0
-status: active
+status: draft
 created: 2026-07-04
-author: Cato (BSOS Guardian)
+updated: 2026-07-04
+author: Creative Director (ChatGPT) & Executive Producer (Steve)
 tags: [bsos, foundation, glossary, reference]
-canon_level: immutable
+canon_level: core
 ---
 
-# BSOS 名词词典
+# BSOS 名词词典（Glossary）
 
-## 如何使用本词典
-
-本词典是 BSOS 的**统一语言规范**。
-
-- 所有 BSOS 文件必须使用本词典定义的术语
-- 未来新增术语必须先加入本词典，方可正式使用
-- 任何 AI 进入 BSOS 前，应优先阅读本词典
+> Version 1.0 — DRAFT（待 Review）
 
 ---
 
-## 核心概念
+## 文件目的
 
-### Story OS（故事操作系统）
-一个可以持续生产高质量中文 AI 短剧的创作操作系统。不是写一部短剧，而是建立可以不断复制、扩展、维护的 IP Universe。
-> 参见：[[000_BSOS_PROTOCOL.md|BSOS Protocol]]
+《BSOS 名词词典（Glossary）》是 BlackSpade Story OS（BSOS）的统一术语标准。
+
+本文件不负责解释行业定义。
+
+本文件只定义：
+
+**在 BlackSpade Story OS 中，每一个术语代表什么。**
+
+未来所有：
+
+- 人类成员
+- ChatGPT
+- Claude Code
+- Cato
+- AI Agent
+- 未来工具
+
+都必须以本文件作为统一语言标准。
+
+---
+
+## 使用原则
+
+### Principle 01
+所有定义采用 BlackSpade 标准。不引用外部定义。
+
+### Principle 02
+每个术语保持简洁。建议 1～3 句话。避免长篇解释。
+
+### Principle 03
+如果一个术语没有出现在 Glossary，它不应成为 Foundation 的正式术语。新增术语必须通过新的 Work Order。
+
+---
+
+## Foundation
 
 ### BSOS（BlackSpade Story OS）
-BlackSpade 故事操作系统的正式缩写。整个公司的核心创作基础设施。
-> 不可替换的核心资产。
+BlackSpade 的创作操作系统，用于管理所有创作、知识、流程与 IP。
 
-### BlackSpade Foundation（黑桃基石）
-BSOS 的第一层。包含 Protocol、黑桃之道、创作宪法、名词词典四份核心文件。是所有上层建筑的基础。
-> 参见：[[001_THE_BLACKSPADE_WAY.md|黑桃之道]]、[[002_CREATION_CONSTITUTION.md|创作宪法]]
+### Foundation
+BSOS 的最高层基础文件。所有其他系统都建立于 Foundation 之上。
 
-### BSOS Guardian（BSOS 守护者）
-负责维护 BSOS 完整性、一致性与长期可持续发展的人（AI 角色）。不是创作者，是系统维护者。
-> 职责：Repository Architecture、Knowledge Management、Canon Consistency、Workflow Enforcement、Version Management
+### Protocol
+定义 BSOS 的工作方式、流程、版本管理与协作规范。
 
----
+### The BlackSpade Way
+定义 BlackSpade 的创作信仰与文化。回答「为什么创作」。
 
-## 工作系统
+### Canon
+BlackSpade 所有作品共同遵守的最高创作法则。回答「如何创作」。
 
-### Work Order（工作指令）
-BSOS 的正式工作任务。每个 Work Order 拥有唯一编号（BSOS-[category]-[NNN]），一经建立即成为系统生命周期的一部分。
-> 格式：`BSOS-0-001`、`BSOS-3-018`
-> 参见：[[000_BSOS_PROTOCOL.md#work-order-protocol|Work Order Protocol]]
-
-### PCB（Project Context Brief，项目上下文简报）
-每次新工作开始前，由 BSOS Guardian 自动准备的项目上下文。包含当前项目、版本、Work Order、近况、潜在冲突、建议阅读文件。所有 AI 在开始工作前应优先阅读 PCB。
-> 未来所有 AI 的长期记忆来自 Obsidian Repository，而不是对话历史。
-
-### Creative Spec（创意规格）
-ChatGPT 产出的正式创意内容。区别于日常讨论。只有 Creative Spec 才能进入 BSOS Repository。
-
-### Creative Discussion（创意讨论）
-ChatGPT 与 Steve 之间的日常讨论。有价值但不正式。**不得**直接写入 Repository。只有经过整理、审核的 Creative Spec 才可进入。
-
-### Canon（正典 / 宪法）
-BSOS 的最高创作法律。任何角色、剧情、对白、世界观均不得违反。一旦 LOCKED，修改必须通过正式 Work Order。
-> 参见：[[002_CREATION_CONSTITUTION.md|创作宪法]]
+### Repository
+BSOS 的唯一长期知识库（Single Source of Truth）。所有正式知识必须存在于 Repository。
 
 ---
 
-## 角色系统（Character OS）
+## Work Order
 
-### Character OS（角色操作系统）
-每位角色的完整知识体系。包含 Bible、DNA、Psychology、Relationships、Growth、Dialogue、Prompt。
+### Work Order
+BSOS 的正式工作单位。所有正式工作必须拥有唯一 Work Order ID。
 
-### Character Bible（角色圣经）
-角色的完整档案。包含外观、性格、背景、动机、目标、恐惧、秘密等所有维度。
+### Project Context Brief（PCB）
+每次工作开始前生成的项目上下文摘要。帮助 AI 与团队快速恢复工作状态。
 
-### Character DNA（角色基因）
-角色的核心本质。**不可变**。所有人物行为必须符合 Character DNA。一旦建立，任何修改必须通过 Work Order。
-
-### Character Brain（角色大脑）
-角色的思维方式、决策逻辑、情感模式。是 Character DNA 的行为化表达。
-
-### OOC（Out of Character，角色崩坏）
-角色行为偏离其 Character DNA 的现象。属于 Canon 违反。如果角色似乎做出不符合 DNA 的行为，故事必须展示**原因**。
+### Creative Spec
+Creative Director 输出的正式创作规格说明。作为 Cato 与 Claude Code 的执行依据。
 
 ---
 
-## 世界观系统（Universe OS）
+## Story
 
-### Universe OS（世界观系统）
-每个 IP 的世界观知识体系。包含 Universe Bible、World Rules、Locations、Organizations、Timeline、History。
+### Story
+拥有独立世界规则、历史与人物体系的故事宇宙。
 
-### Universe Bible（世界观圣经）
-世界观的总纲文件。定义该世界的基础设定、规则体系、核心矛盾。
+### Story Engine
+负责管理故事结构、Season、Episode、剧情推进与叙事设计的系统。
 
----
+### Story Arc
+一段完整故事的发展轨迹。通常包含开始、发展、高潮与结局。
 
-## 故事系统（Story Engine）
+### Character Arc
+角色在故事中的成长轨迹。
 
-### Story Engine（故事引擎）
-故事创作的核心系统。包含 Season、Arc、Episode、Hook Map、Foreshadow Map、Payoff Map。
+### Episode
+故事最小的连续叙事单位。
 
-### Hook（钩子）
-每一集结尾的悬念/情感/反转/信息。结构法则：**每一集必须有 Hook**。
+### Act
+由多个 Episode 组成的重要剧情阶段。
 
-### Cliffhanger（悬念钩）
-一种特定类型的 Hook。在关键处中断，迫使观众追看下一集。
+### Cold Open
+故事正式进入主线前，用来快速吸引观众的开场。
 
-### Cold Open（冷开场）
-在片头/标题出现之前直接进入剧情。通常用于快速建立氛围或悬念。
+### Hook
+推动观众主动观看下一集的核心驱动力。
 
-### Foreshadow（伏笔）
-预先埋设的线索。所有伏笔都**必须**有回收。
+### Cliffhanger
+在关键时刻结束剧情，使观众迫切想知道后续发展。
 
-### Payoff（回收 / 呼应）
-伏笔的兑现。每一个谜团最终必须有答案。
+### Foreshadow
+提前埋下未来将会兑现的线索。
 
-### Story Arc（剧情弧）
-一个完整的故事段落。通常包含多条 Episode，具有独立的起承转合。
-
-### Romance Engine（爱情引擎）
-情感线的驱动系统。爱情是表层，成长才是真正主线。
-
----
-
-## 制作系统（Production OS）
-
-### Production OS（制作系统）
-将剧本转化为成品短剧的制作体系。包含 Storyboard、Camera Language、Image Prompt、Video Prompt、Voice、Subtitle、Editing Notes。
-
-### Storyboard（分镜图）
-以图像或文字描述每一镜头的画面构成、运镜方式、人物位置。
-
-### Shot List（镜头清单）
-每一集的完整镜头列表。包含镜头编号、场景编号、镜头类型、描述、对白、时长。
+### Payoff
+对前期伏笔的正式回收。
 
 ---
 
-## 工作流相关
+## Character
 
-### Guardian Protocol（守护者协议）
-BSOS Guardian 的检查清单：收到 Work Order 后，检查是否违反 Canon、影响 Character OS、影响 Universe OS、影响 Story Engine。如果发现冲突，建立 Conflict Report 等待 Steve 决策。
+### Character OS
+管理角色的完整系统。包含所有角色资料、成长、关系与设定。
 
-### Conflict Report（冲突报告）
-当 Guardian 发现 Canon 冲突时建立的正式报告。包含冲突描述、影响范围、建议方案。等待 Executive Producer 决策。
+### Character Bible
+记录角色完整设定的正式文件。
 
-### Change Request（变更请求）
-修改 LOCKED 内容的正式流程。必须说明：修改原因、影响范围、Version Upgrade、审批记录。
+### Character DNA
+角色长期稳定、不轻易改变的核心人格特质。
 
-### Version Bump（版本升级）
-当内容发生变更时，对应的版本号提升。遵循 semver 语义化版本规范。
+### Character Brain
+描述角色的思考方式、决策逻辑与行为模式。
 
----
+### Character Relationship
+角色之间持续变化的发展关系。
 
-## 创意法则
+### Want
+角色认为自己想得到的目标。
 
-### Never Explain. Always Reveal.（永不解释。永远揭露。）
-BSOS 第一创作法则。通过事件揭露人物和真相，而不是通过旁白或对话解释。
+### Need
+角色真正需要学习的人生课题。
 
-### 人物创造剧情（Characters Drive Plot）
-BSOS 第二创作法则。Plot is the natural result of characters making choices.
+### Core Wound
+塑造角色的重要心理创伤。
 
-### 命运（Fate）
-必须贯穿整个故事的底层脉络。所有伏笔都必须有回收。
+### The Lie
+角色相信但实际上错误的人生信念。
 
-### Character DNA（角色基因不可违）
-所有人物行为必须符合其 Character DNA。参见 OOC。
-
----
-
-## 技术术语
-
-### Repository（仓库）
-BSOS 的完整文件系统。存储在 Obsidian Vault 中，通过 Git 进行版本管理。
-
-### Obsidian Vault（Obsidian 仓库）
-BSOS 的物理存储位置。**Single Source of Truth**。聊天记录不是最终版本。
-
-### SSOT（Single Source of Truth，唯一真相）
-BSOS 的最高信息原则。所有正式内容以 Obsidian Repository 为准。
-
-### Frontmatter（前页元数据）
-每个 Markdown 文件顶部的 YAML 元数据块。包含 title、type、version、status、canon_level 等字段。
-
-### Canon Level（正典等级）
-文件的权威等级：`immutable`（不可修改）、`core`（稳定）、`flexible`（可演化）、`experimental`（实验性，可能废弃）。
+### The Truth
+角色最终必须理解的人生真相。
 
 ---
 
-## 角色与职责
+## Workflow
 
-| 角色 | 英文名称 | 职责 |
-|------|---------|------|
-| 执行制片人 | Executive Producer (Steve) | 最终决策 |
-| 创意总监 | Creative Director (ChatGPT) | 世界观、人物、剧情、创意审查 |
-| BSOS 守护者 | BSOS Guardian (Cato) | 维护系统完整性、一致性、版本管理 |
-| 构建者 | Builder (Claude Code) | 创建文件、修改 Markdown、自动化 |
+### Discussion
+开放讨论阶段。所有内容均可推翻。
+
+### Draft
+正式整理中的内容。尚未成为 Canon。
+
+### Review
+等待审核阶段。
+
+### Approved
+内容正式获得批准。允许进入 Repository。
+
+### Canonized
+内容正式成为 BSOS Canon。
+
+### Locked
+稳定版本。不得直接修改。
+
+### Conflict Report
+用于记录 Canon、Repository 或设定冲突的正式报告。
+
+### Backlog
+已确认有价值，但暂不执行的工作项目。
 
 ---
 
-## 如何新增术语
+## Production
 
-1. 确认该术语尚未存在于本词典
-2. 按照以下格式添加：
+### Storyboard
+故事的视觉分镜规划。
 
-```markdown
-### 术语名称（English Term）
-清晰的定义。说明用途和上下文。
-> 参见：关联文件
+### Shot List
+镜头拍摄清单。
+
+### Moodboard
+统一视觉风格与氛围的参考集合。
+
+### Prompt
+提供 AI 执行任务的标准化指令。
+
+### Reference
+创作时使用的参考资料。
+
+---
+
+## Glossary 修改规则
+
+新增术语、修改定义、删除术语，必须建立新的 Work Order，并遵循：
+
+```
+Discussion → Review → Approved → Repository Update → Canon Version Upgrade
 ```
 
-3. 在相关文件中开始使用该术语
-4. 术语进入 BSOS 后，所有文件必须统一使用，不得混用别名
+---
+
+## 结语
+
+Glossary 的目的，不是建立一本字典。
+
+而是建立一种共同语言。
+
+当 BlackSpade 的每一位成员、每一个 AI、每一个 Agent 对同一个术语拥有相同理解时，创作效率、一致性与长期维护能力才能真正建立。
 
 ---
 
 ## 相关文件
 
 - [[000_BSOS_PROTOCOL.md|BSOS Protocol]] — 系统技术规范
-- [[001_THE_BLACKSPADE_WAY.md|黑桃之道]] — 创作信仰
+- [[001_THE_BLACKSPADE_WAY.md|黑桃之道]] — 创作信仰与承诺
 - [[002_CREATION_CONSTITUTION.md|创作宪法]] — 最高创作法律
 
 ---
 
-*本词典是 BSOS Foundation 的一部分。新增术语须经 BSOS Guardian 确认。*
-*最后更新：2026-07-04*
+*本文件为 BSOS Foundation 一部分。Version 1.0 — DRAFT。*
