@@ -5,7 +5,7 @@ ch_code: "CH-001"
 name: "林知夏"
 ip: "IP-001"
 role: "女主角"
-status: draft
+status: active
 archetype: "自力更生的幸存者"
 canon_level: core
 version: 1.0

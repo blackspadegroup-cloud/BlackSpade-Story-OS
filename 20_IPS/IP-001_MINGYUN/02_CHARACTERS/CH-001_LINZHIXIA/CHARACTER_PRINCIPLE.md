@@ -5,7 +5,7 @@ ch_code: "CH-001"
 name: "林知夏"
 ip: "IP-001"
 version: 1.0
-status: draft
+status: active
 canon_level: immutable
 created: 2026-07-04
 author: Creative Director (ChatGPT)

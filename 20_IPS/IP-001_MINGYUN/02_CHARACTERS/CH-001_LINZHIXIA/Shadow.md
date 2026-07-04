@@ -5,9 +5,10 @@ ch_code: "CH-001"
 name: "林知夏"
 ip: "IP-001"
 version: 1.0
-status: draft
+status: active
 created: 2026-07-04
 tags: [bsos, ip-001, character, shadow]
+canon_level: core
 ---
 
 # CH-001 林知夏 — Shadow Layer
