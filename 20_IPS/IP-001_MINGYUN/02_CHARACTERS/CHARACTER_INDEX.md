@@ -58,6 +58,7 @@ SORT ch_code ASC
 
 ```
 CH-NNN_NAME/
+├── CHARACTER_PRINCIPLE.md     ← 角色最高原则（Character Gate）
 ├── Character_Snapshot.md      ← 角色速查（AI 优先读取）
 ├── Identity.md                ← Layer 01：身份
 ├── History.md                 ← Layer 02：历史

@@ -1,7 +1,7 @@
 ---
-title: "Character OS v1.0 — Character Standard"
+title: "Character OS v1.1 — Character Standard"
 type: template
-version: 1.0
+version: 1.1
 status: active
 created: 2026-07-04
 author: Cato (BSOS Guardian) — Architecture by Creative Director (ChatGPT)
@@ -41,6 +41,7 @@ Character OS 的目标不是记录角色。
 ```
 CH-NNN_NAME/
 ├── Character_Snapshot.md      ← AI 默认读取入口（30 秒恢复上下文）
+├── CHARACTER_PRINCIPLE.md     ← 角色最高原则（位于 Layer 01 之前）
 │
 ├── Identity.md                ← Layer 01
 ├── History.md                 ← Layer 02
@@ -60,6 +61,58 @@ CH-NNN_NAME/
 │
 └── BIBLE.md                   ← 完整角色圣经（由各 Layer 自动/手动汇总）
 ```
+
+---
+
+## Character Principle（角色原则）
+
+> **Character OS 的最高层定义。位于 Layer 01（Identity）之前。**
+
+### 定义
+
+Character Principle 不是角色介绍。
+
+Character Principle 是：**角色一生都在对抗的核心命题。**
+
+它定义了：
+- 这个角色一生最大的内部冲突
+- 整个人物成长弧线（Character Arc）的起点与终点
+
+未来 Character OS 所有 Layer 都必须围绕 Character Principle 建立。任何 Layer 不得与 Character Principle 冲突。
+
+### 四规则
+
+| 规则 | 说明 |
+|------|------|
+| **Rule 01** | 不得描述身份、职业、年龄、外貌。描述的是内在命题，不是外在资料。 |
+| **Rule 02** | 必须描述角色一生都无法逃避的核心冲突（安全感、控制、自由、信任、孤独、自我价值等）。 |
+| **Rule 03** | 必须能够预测角色最终成长方向。读完应能理解角色未来面对什么挑战、最终成为什么样的人。 |
+| **Rule 04** | 必须成为 Character OS 的最高约束。Decision Engine、Behaviour Engine、Voice Engine、Growth Engine 均不得违反。 |
+
+### 格式
+
+```markdown
+她追逐财富，不是因为爱钱，而是因为贫穷夺走过她的人生。
+
+**核心命题：** 安全感
+```
+
+### Character Gate（角色门禁）
+
+> **Character Principle 为 Character OS 的建立门槛。**
+
+任何角色：
+- 若无法定义 Character Principle
+- 不得开始建立 Character OS
+
+Executive Producer 与 Creative Director 应先完成 Character Principle Review。通过后，才能建立 Character OS。
+
+### 示例
+
+| 角色 | Character Principle | 核心命题 |
+|------|-------------------|---------|
+| CH-001 林知夏 | 她追逐财富，不是因为爱钱，而是因为贫穷夺走过她的人生。 | 安全感 |
+| CH-002 陆景深 | 他穷尽一生追求掌控，却在爱情面前第一次承认：有些东西，越想控制，越会失去。 | 控制 |
 
 ---
 
