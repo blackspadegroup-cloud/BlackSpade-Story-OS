@@ -4,7 +4,7 @@ ch_code: CH-002
 name: 陆景深
 ip: IP-001
 role: 男主角
-status: draft
+status: active
 archetype: "用控制对抗失控的掌局者"
 canon_level: core
 ---

@@ -4,7 +4,7 @@ ch_code: CH-002
 name: 陆景深
 ip: IP-001
 version: 1.0
-status: draft
+status: active
 canon_level: core
 ---
 
