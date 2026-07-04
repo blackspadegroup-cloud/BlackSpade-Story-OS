@@ -26,7 +26,7 @@ canon_level: core
 | EP-002 | Day 1（当晚） | 游艇 VIP 贵宾室 | "泼得漂亮" — 第一次正面对话 | CH-001, CH-002 |
 | EP-003 | Day 1（深夜） | VIP 贵宾室 | 工作邀约被拒 | CH-001, CH-002 |
 | EP-004 | Day 1（深夜） | 游艇出口 | 陆景深尊重决定 → 顾言川登场 | CH-001, CH-002, **CH-003** |
-| EP-005 | TBD | TBD | TBD | TBD |
+| EP-005 | Day 1（深夜） | 游艇甲板 | 撞见顾言川 → 他是寿星 → 他捡到工作证 | CH-001, CH-003 |
 | EP-006~015 | TBD | TBD | TBD | TBD |
 
 ### ACT-01 Time Span

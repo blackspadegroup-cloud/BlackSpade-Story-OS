@@ -92,3 +92,4 @@ canon_level: core
 ## 相关剧集
 
 - [[03_STORIES/SEASON_01/ACT_01/EP_004.md|EP-004：我拒绝]]（首次登场）
+- [[03_STORIES/SEASON_01/ACT_01/EP_005.md|EP-005：原来他不是搭讪]]
