@@ -19,7 +19,7 @@ canon_level: immutable
 - Established **BlackSpade Foundation** as Layer 1 (10_FOUNDATIONS/)
 - Created BSOS-0-001: `000_BSOS_PROTOCOL.md` — Master technical specification
 - Created BSOS-0-002: `001_THE_BLACKSPADE_WAY.md` — Creative manifesto
-- Created BSOS-0-003: `002_CREATION_CONSTITUTION.md` — Official canon (10 articles)
+- Created BSOS-0-003: `002_CREATION_CONSTITUTION.md` — Official canon (36 articles, 8 chapters)
 - Created BSOS-0-004: `003_GLOSSARY.md` — Unified terminology (50+ terms)
 - Deprecated `00_KERNEL/000_CONSTITUTION.md` → superseded by Foundation Constitution
 - Updated `003_ARCHITECTURE.md` to v1.1 with Foundation layer
