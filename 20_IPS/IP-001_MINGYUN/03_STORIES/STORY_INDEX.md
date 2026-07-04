@@ -1,5 +1,5 @@
 ---
-title: "命运早已写好答案 — 故事索引"
+title: "我要钱，我不要总裁 — 故事索引"
 ip: IP-001
 code: MINGYUN
 type: story

@@ -1,5 +1,5 @@
 ---
-title: "命运早已写好答案 — 关系图谱"
+title: "我要钱，我不要总裁 — 关系图谱"
 type: relationship_graph
 ip: IP-001
 version: 1.0
@@ -10,7 +10,7 @@ tags: [bsos, ip-001, character, relationship]
 canon_level: core
 ---
 
-# 命运早已写好答案 — 关系图谱
+# 我要钱，我不要总裁 — 关系图谱
 
 > **本文件是 IP-001 MINGYUN 所有角色关系图谱的单一真相源（Single Source of Truth）。**
 >

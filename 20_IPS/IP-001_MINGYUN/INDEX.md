@@ -1,5 +1,7 @@
 ---
-title: "命运早已写好答案 — IP Overview"
+title: "我要钱，我不要总裁 — IP Overview"
+official_title: "我要钱，我不要总裁"
+project_codename: "命运早已写好答案"
 ip: IP-001
 code: MINGYUN
 type: ip_index
@@ -11,7 +13,7 @@ tags: [bsos, ip-001, index, overview]
 canon_level: core
 ---
 
-# 命运早已写好答案 — IP 总览
+# 我要钱，我不要总裁 — IP 总览
 
 ---
 
@@ -19,7 +21,7 @@ canon_level: core
 
 | 字段 | 内容 |
 |------|------|
-| **项目名称** | 命运早已写好答案 |
+| **项目名称** | 我要钱，我不要总裁 |
 | **英文代号** | MINGYUN |
 | **类型** | 现代都市 / 办公室 / 爱情 / 命运 / 成长 |
 | **目标受众** | 中国短剧观众（红果、抖音、快手等平台） |

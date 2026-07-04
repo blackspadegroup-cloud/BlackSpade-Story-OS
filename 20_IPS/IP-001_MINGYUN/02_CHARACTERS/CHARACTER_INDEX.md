@@ -1,5 +1,5 @@
 ---
-title: "命运早已写好答案 — 角色索引"
+title: "我要钱，我不要总裁 — 角色索引"
 ip: IP-001
 code: MINGYUN
 type: index
@@ -18,7 +18,7 @@ canon_level: core
 
 ## 用途
 
-本文档为 IP-001「命运早已写好答案」的角色索引。所有角色信息**自动生成**自各角色的 `Character_Snapshot.md` 文件。
+本文档为 IP-001「我要钱，我不要总裁」的角色索引。所有角色信息**自动生成**自各角色的 `Character_Snapshot.md` 文件。
 
 > 本索引基于 Obsidian Dataview 插件自动生成。如需查看最新角色列表，请在 Obsidian 中打开本文档并确保 Dataview 插件已启用。
 

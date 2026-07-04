@@ -1,5 +1,5 @@
 ---
-title: "命运早已写好答案 — 镜头清单"
+title: "我要钱，我不要总裁 — 镜头清单"
 ip: IP-001
 code: MINGYUN
 type: production

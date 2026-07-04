@@ -17,7 +17,7 @@ canon_level: flexible
 
 | 编号 | 项目名称 | 代号 | 状态 | 阶段 | EP | Creative Director | Orchestrator | 优先级 |
 |------|----------|------|------|------|----|-------------------|-------------|--------|
-| IP-001 | 命运早已写好答案 | MINGYUN | 筹备中 | 脚手架搭建完成，待世界观输出 | Steve | ChatGPT | Cato | P0 |
+| IP-001 | 我要钱，我不要总裁 | MINGYUN | 筹备中 | 脚手架搭建完成，待世界观输出 | Steve | ChatGPT | Cato | P0 |
 
 ### 状态说明
 

@@ -1,5 +1,5 @@
 ---
-title: "命运早已写好答案 — 世界观圣经"
+title: "我要钱，我不要总裁 — 世界观圣经"
 ip: IP-001
 code: MINGYUN
 type: universe

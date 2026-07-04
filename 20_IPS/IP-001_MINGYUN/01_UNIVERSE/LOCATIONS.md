@@ -1,5 +1,5 @@
 ---
-title: "命运早已写好答案 — 地点设定"
+title: "我要钱，我不要总裁 — 地点设定"
 ip: IP-001
 code: MINGYUN
 type: universe

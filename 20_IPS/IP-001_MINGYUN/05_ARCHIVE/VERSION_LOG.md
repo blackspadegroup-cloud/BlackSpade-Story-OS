@@ -1,5 +1,5 @@
 ---
-title: "命运早已写好答案 — 版本日志"
+title: "我要钱，我不要总裁 — 版本日志"
 ip: IP-001
 code: MINGYUN
 type: archive
