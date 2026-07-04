@@ -1,70 +1,43 @@
 ---
-title: "BSOS 版本变更日志"
-type: kernel
-version: 1.0.0
+title: "BSOS Changelog"
+type: changelog
+version: 1.1
 status: active
-created: 2025-07-04
-author: BSOS Core
-tags: [kernel, changelog, meta]
-canon_level: mutable
+created: 2026-07-04
+author: Cato (BSOS Guardian)
+tags: [bsos, kernel, changelog]
+canon_level: immutable
 ---
 
-# BSOS 版本变更日志
+# BSOS Changelog
 
-> 本文档记录 BSOS 系统的所有版本变更。
->
-> 格式：`YYYY-MM-DD | vX.Y.Z | [type] 变更描述 | 作者`
+## v1.1.0 — Foundation Layer (2026-07-04)
 
----
+**Work Order**: BSOS-0-001
 
-## v1.0.0 — 初始建立
+**Changes**:
+- Established **BlackSpade Foundation** as Layer 1 (10_FOUNDATIONS/)
+- Created BSOS-0-001: `000_BSOS_PROTOCOL.md` — Master technical specification
+- Created BSOS-0-002: `001_THE_BLACKSPADE_WAY.md` — Creative manifesto
+- Created BSOS-0-003: `002_CREATION_CONSTITUTION.md` — Official canon (10 articles)
+- Created BSOS-0-004: `003_GLOSSARY.md` — Unified terminology (50+ terms)
+- Deprecated `00_KERNEL/000_CONSTITUTION.md` → superseded by Foundation Constitution
+- Updated `003_ARCHITECTURE.md` to v1.1 with Foundation layer
+- Updated `README.md` — Foundation-first entry point
 
-| 日期 | 版本 | 变更 | 作者 |
-|------|------|------|------|
-| 2025-07-04 | v1.0.0 | [init] BSOS 系统初始建立 | BSOS Core |
-| 2025-07-04 | v1.0.0 | [feat] 创作宪法（000_CONSTITUTION）— 9 条最高准则 | BSOS Core |
-| 2025-07-04 | v1.0.0 | [feat] 创作原则（001_PRINCIPLES）— 逐条展开与示例 | BSOS Core |
-| 2025-07-04 | v1.0.0 | [feat] 标准工作流程（002_WORKFLOW）— 6 步流水线 | BSOS Core |
-| 2025-07-04 | v1.0.0 | [feat] 命名规范标准（STANDARDS/000_NAMING_CONVENTION） | BSOS Core |
-| 2025-07-04 | v1.0.0 | [feat] 元数据标准（STANDARDS/001_METADATA_STANDARD） | BSOS Core |
-| 2025-07-04 | v1.0.0 | [feat] Markdown 标准（STANDARDS/002_MARKDOWN_STANDARD） | BSOS Core |
-| 2025-07-04 | v1.0.0 | [feat] Git 标准（STANDARDS/003_GIT_STANDARD） | BSOS Core |
-| 2025-07-04 | v1.0.0 | [docs] 本变更日志初始化 | BSOS Core |
+**Author**: Cato (BSOS Guardian)
 
 ---
 
-## 版本号说明
+## v1.0.0 — Initial BSOS Repository (2026-07-04)
 
-BSOS 遵循 **Semantic Versioning 2.0.0**：
+**Work Order**: TASK-0001
 
-```
-vMAJOR.MINOR.PATCH
-```
+**Changes**:
+- Initial BSOS repository establishment
+- 6-layer architecture: KERNEL, FOUNDATIONS, IPS, PRODUCTION, ASSETS, ARCHIVE
+- 37 files across all layers
+- IP-001 MINGYUN scaffold created
+- Git repository initialized and pushed to GitHub
 
-| 维度 | 含义 | 示例 |
-|------|------|------|
-| MAJOR | 不兼容的宪法/体系级变更 | v2.0.0 |
-| MINOR | 新增功能/原则/标准，向后兼容 | v1.1.0 |
-| PATCH | 修错、优化、文档补充 | v1.0.1 |
-
----
-
-## 变更类型标签
-
-| 标签 | 含义 |
-|------|------|
-| `[init]` | 初始建立 |
-| `[feat]` | 新增功能/文件 |
-| `[fix]` | 修正错误 |
-| `[refactor]` | 结构重构 |
-| `[docs]` | 文档补充/修改 |
-| `[style]` | 格式/文风调整 |
-| `[meta]` | 系统元数据变更 |
-
----
-
-## 附则
-
-- canon_level: **mutable** — 本文件随版本变更持续更新
-- 每次版本变更均需追加记录
-- 禁止修改历史记录，只能追加
+**Author**: Cato (Project Orchestrator)
