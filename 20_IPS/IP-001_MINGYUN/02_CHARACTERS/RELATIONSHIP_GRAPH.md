@@ -51,21 +51,21 @@ canon_level: core
 
 | 关系 ID | 角色 A | 关系类型 | 角色 B | 强度 | 引入季节 | 当前状态 | 演化记录 | 关键剧情引用 |
 |---------|--------|----------|--------|:----:|:--------:|:---------:|----------|--------------|
-| REL-001 | [[CH-001_LINZHIXIA]] | `romantic`/`complex` | [[CH-002_GUMUYI]] | 7 | S1 | evolving | S1: 初遇 — 商业交锋中遇见陆景深，他"看不懂"让她感到不安。<br>S1: 拉锯 — 陆景深的接近让她防御升级，但开始隐约期待他的出现。<br>S1: 裂痕 — 林知夏的冷漠与陆景深的耐心持续角力中。 | S1E01, S1E03, S1E05, S1E08 |
+| REL-001 | [[CH-001_LINZHIXIA]] | `romantic`/`complex` | [[CH-002_LUJINGSHEN]] | 7 | S1 | evolving | S1: 初遇 — 商业交锋中遇见陆景深，他"看不懂"让她感到不安。<br>S1: 拉锯 — 陆景深的接近让她防御升级，但开始隐约期待他的出现。<br>S1: 裂痕 — 林知夏的冷漠与陆景深的耐心持续角力中。 | S1E01, S1E03, S1E05, S1E08 |
 | REL-002 | [[CH-001_LINZHIXIA]] | `familial` | [[CH-NNN_LINMOTHER]] | 9 | pre-story | active | S0: 童年 — 母女相依为命，母亲打两份工供她读书。<br>S0: 创伤 — 弟弟/妹妹因贫无钱医治去世（或母亲积劳错过治疗时机），此事定义了林知夏的人生。<br>S1: 报恩 — 经济独立后每月汇款，但母女之间有很多未说出口的话。 | — |
-| REL-003 | [[CH-002_GUMUYI]] | `familial` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-003 | [[CH-002_LUJINGSHEN]] | `familial` | [[CH-NNN_LUFATHER]] | 8 | pre-story | dormant | S0: 坠落 — 父亲陆正廷因决策失误导致家族企业崩塌，陆景深目睹全过程。<br>S0: 决裂 — 十六岁后父子关系名存实亡。不恨，但也不靠近。<br>S1: 当前 — 极少联系。陆景深不主动提起父亲。但某些决策时会下意识模仿父亲当年的某些动作——他自己没意识到。 | — |
 | REL-004 | [[CH-001_LINZHIXIA]] | `friend` | [[CH-NNN_NAME]] | — | — | planned | — | — |
-| REL-005 | [[CH-002_GUMUYI]] | `friend` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-005 | [[CH-002_LUJINGSHEN]] | `friend` | [[CH-NNN_NAME]] | — | — | planned | — | — |
 | REL-006 | [[CH-001_LINZHIXIA]] | `antagonistic` | [[CH-NNN_NAME]] | — | — | planned | — | — |
-| REL-007 | [[CH-002_GUMUYI]] | `antagonistic` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-007 | [[CH-002_LUJINGSHEN]] | `antagonistic` | [[CH-NNN_NAME]] | — | — | planned | — | — |
 | REL-008 | [[CH-001_LINZHIXIA]] | `mentor` | [[CH-NNN_LINMENTOR]] | 5 | pre-story | active | S0: 初入行 — 前上司/行业前辈，对刚入行的她有知遇之恩。<br>S1: 当前 — 仍保持联系，是林知夏为数不多愿意主动联系的人。 | — |
-| REL-009 | [[CH-002_GUMUYI]] | `mentor` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-009 | [[CH-002_LUJINGSHEN]] | `mentor` | [[CH-NNN_XUSHIJIE]] | 7 | pre-story | active | S0: 创业初期 — 许世杰是陆景深早期投资人兼导师，在陆景深最困难的时候给了他第一笔资金和一个机会。<br>S0: 默契 — 两人性格相似（都是话少、精准的人），成为了罕见的「沉默的信任」关系。<br>S1: 当前 — 许世杰是陆景深为数不多可以不用解释就懂他的人。 | — |
 | REL-010 | [[CH-001_LINZHIXIA]] | `professional` | [[CH-NNN_NAME]] | — | — | planned | — | — |
-| REL-011 | [[CH-002_GUMUYI]] | `professional` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-011 | [[CH-002_LUJINGSHEN]] | `professional` | [[CH-NNN_NAME]] | — | — | planned | — | — |
 | REL-012 | [[CH-001_LINZHIXIA]] | `rival` | [[CH-NNN_NAME]] | — | — | planned | — | — |
-| REL-013 | [[CH-002_GUMUYI]] | `rival` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-013 | [[CH-002_LUJINGSHEN]] | `rival` | [[CH-NNN_NAME]] | — | — | planned | — | — |
 | REL-014 | [[CH-001_LINZHIXIA]] | `complex` | [[CH-NNN_NAME]] | — | — | planned | — | — |
-| REL-015 | [[CH-002_GUMUYI]] | `complex` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-015 | [[CH-002_LUJINGSHEN]] | `complex` | [[CH-NNN_NAME]] | — | — | planned | — | — |
 
 > **表注：**
 > - 「强度」列：1–10 分制（1 = 微弱联系，10 = 命运羁绊）
@@ -95,15 +95,19 @@ canon_level: core
 
 | 关系 ID | 角色 A | 关系类型 | 角色 B | 强度 | 引入季节 | 当前状态 | 演化记录 | 关键剧情引用 |
 |---------|--------|----------|--------|:----:|:--------:|:---------:|----------|--------------|
-| REL-001 | [[CH-001_LINZHIXIA]] | `romantic`/`complex` | [[CH-002_GUMUYI]] | 7 | S1 | evolving | S1: 初遇 — 商业交锋；S1: 拉锯；S1: 裂痕 | S1E01, S1E03, S1E05, S1E08 |
+| REL-001 | [[CH-001_LINZHIXIA]] | `romantic`/`complex` | [[CH-002_LUJINGSHEN]] | 7 | S1 | evolving | S1: 初遇 — 商业交锋；S1: 拉锯；S1: 裂痕 | S1E01, S1E03, S1E05, S1E08 |
+| REL-003 | [[CH-002_LUJINGSHEN]] | `familial` | [[CH-NNN_LUFATHER]] | 8 | pre-story | dormant | 父子关系，详见主表 REL-003 | — |
+| REL-009 | [[CH-002_LUJINGSHEN]] | `mentor` | [[CH-NNN_XUSHIJIE]] | 7 | pre-story | active | 师徒/创业引路人，详见主表 REL-009 | — |
 | REL-016 | [[CH-001_LINZHIXIA]] | `familial` | [[CH-NNN_LINMOTHER]] | 9 | pre-story | active | 母女关系，详见主表 REL-002 | — |
 | REL-017 | [[CH-001_LINZHIXIA]] | `friend` | [[CH-NNN_NAME]] | — | — | planned | — | — |
 | REL-018 | [[CH-001_LINZHIXIA]] | `professional` | [[CH-NNN_LINMENTOR]] | 5 | pre-story | active | 师徒/知遇之恩，详见主表 REL-008 | — |
-| REL-019 | [[CH-002_GUMUYI]] | — | 待填充 | — | — | planned | — | — |
-| REL-020 | [[CH-002_GUMUYI]] | — | 待填充 | — | — | planned | — | — |
-| REL-021 | [[CH-002_GUMUYI]] | — | 待填充 | — | — | planned | — | — |
+| REL-019 | [[CH-002_LUJINGSHEN]] | `friend` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-020 | [[CH-002_LUJINGSHEN]] | `antagonistic` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-021 | [[CH-002_LUJINGSHEN]] | `professional` | [[CH-NNN_NAME]] | — | — | planned | — | — |
 | REL-022 | [[CH-001_LINZHIXIA]] | — | 待填充 | — | — | planned | — | — |
 | REL-023 | [[CH-001_LINZHIXIA]] | — | 待填充 | — | — | planned | — | — |
+| REL-024 | [[CH-002_LUJINGSHEN]] | `rival` | [[CH-NNN_NAME]] | — | — | planned | — | — |
+| REL-025 | [[CH-002_LUJINGSHEN]] | `complex` | [[CH-NNN_NAME]] | — | — | planned | — | — |
 
 ---
 
