@@ -4,7 +4,7 @@ ch_code: CH-003
 name: 顾言川
 ip: IP-001
 role: 第二男主角
-status: draft
+status: active
 archetype: "用自由对抗恐惧的流浪者"
 canon_level: core
 ---

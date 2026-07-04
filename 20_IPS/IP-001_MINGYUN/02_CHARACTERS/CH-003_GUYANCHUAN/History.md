@@ -4,7 +4,7 @@ ch_code: CH-003
 name: 顾言川
 layer: 02
 version: 1.0
-status: draft
+status: active
 canon_level: core
 created: 2026-07-04
 ---

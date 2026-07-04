@@ -5,7 +5,7 @@ ch_code: "CH-003"
 name: "顾言川"
 ip: "IP-001"
 version: 1.0
-status: draft
+status: active
 canon_level: immutable
 created: 2026-07-04
 author: Creative Director (ChatGPT)
