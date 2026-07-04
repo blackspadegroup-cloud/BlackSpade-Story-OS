@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Obsidian
+.obsidian/
+*.obs
+
+# Production artifacts (generated media)
+50_PRODUCTION/IMAGE_PROMPT_OUTPUTS/*
+50_PRODUCTION/VIDEO_PROMPT_OUTPUTS/*
+50_PRODUCTION/AUDIO_OUTPUTS/*
+
+# Keep empty dirs tracked
+!.gitkeep
