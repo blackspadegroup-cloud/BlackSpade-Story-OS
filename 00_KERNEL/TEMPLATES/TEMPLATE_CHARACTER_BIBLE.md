@@ -1,9 +1,11 @@
 ---
 title: "【模板】角色圣经"
 type: character
-ip: "【所属 IP Code】"
+ip: "【所属 IP Code，如 IP-001】"
+ch_code: "CH-NNN"
 version: "1.0"
 status: draft
+canon_level: core
 created: {{DATE}}
 author: "【替换为作者名】"
 tags:

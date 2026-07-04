@@ -119,32 +119,47 @@ IP-042   第四十二个创意提案
 
 **引用方式：** 在文件中用 `[IP-001]` 格式引用。
 
-### 4.2 C-NNN — Chapter / Episode 编号
+### 4.2 EP-NNN — Episode 编号
 
-**格式：** `C-NNN`
+**格式：** `EP-NNN`
 
 ```
-C-001   第一章/第一集
-C-042   第四十二章/第四十二集
+EP-001   第一集
+EP-042   第四十二集
 ```
 
-**用途：** 标记章节、剧集、场景卡。
+**用途：** 标记剧集、场景卡。
 
-**放置位置：** `04_EPISODES/`
+**放置位置：** `03_STORIES/SEASON_NN/ARC_NNN/`
 
-**引用方式：** 在文件中用 `[[C-001]]` Obsidian 链接引用。
+**引用方式：** 在文件中用 `[[EP-001]]` Obsidian 链接引用。
 
-### 4.3 编码对照表
+### 4.3 CH-NNN — Character 编号
+
+**格式：** `CH-NNN`
+
+```
+CH-001   第一个角色
+CH-042   第四十二个角色
+```
+
+**用途：** 标记角色档案、角色 DNA、角色卡片。
+
+**放置位置：** `02_CHARACTERS/`
+
+**引用方式：** 在文件中用 `[[CH-001]]` Obsidian 链接引用。
+
+### 4.4 编码对照表
 
 | 编码 | 全称 | 范围 | 存放位置 |
 |------|------|------|---------|
-| `IP-NNN` | Idea/Plot Proposal | IP-000 ~ IP-999 | `99_ARCHIVE/IDEAS/` |
-| `C-NNN` | Chapter/Episode | C-000 ~ C-999 | `04_EPISODES/` |
+| `IP-NNN` | Idea/Plot Proposal | IP-000 ~ IP-999 | `20_IPS/` |
+| `EP-NNN` | Episode | EP-000 ~ EP-999 | `03_STORIES/SEASON_NN/ARC_NNN/` |
 | `CH-NNN` | Character | CH-000 ~ CH-999 | `02_CHARACTERS/` |
-| `LOC-NNN` | Location | LOC-000 ~ LOC-999 | `01_WORLD/LOCATIONS/` |
-| `ORG-NNN` | Organization | ORG-000 ~ ORG-999 | `01_WORLD/ORGANIZATIONS/` |
-| `ARC-NNN` | Plot Arc | ARC-000 ~ ARC-999 | `03_PLOT/` |
-| `F-NNN` | Foreshadowing/Forecast | F-000 ~ F-999 | `03_PLOT/FORESHADOWING/` |
+| `LOC-NNN` | Location | LOC-000 ~ LOC-999 | `01_UNIVERSE/` |
+| `ORG-NNN` | Organization | ORG-000 ~ ORG-999 | `01_UNIVERSE/` |
+| `ARC-NNN` | Story Arc | ARC-000 ~ ARC-999 | `03_STORIES/` |
+| `F-NNN` | Foreshadow | F-000 ~ F-999 | `03_STORIES/` |
 
 ---
 
@@ -168,7 +183,7 @@ C-042   第四十二章/第四十二集
 - [ ] 文件名是否有空格或中文字符？
 - [ ] frontmatter 中的 `title` 是否为自然语言？
 - [ ] frontmatter 中的 `tags` 是否包含标准标签？
-- [ ] 编码引用是否为 `IP-NNN` 或 `C-NNN` 格式？
+- [ ] 编码引用是否为 `IP-NNN`、`CH-NNN` 或 `EP-NNN` 格式？
 
 ---
 
