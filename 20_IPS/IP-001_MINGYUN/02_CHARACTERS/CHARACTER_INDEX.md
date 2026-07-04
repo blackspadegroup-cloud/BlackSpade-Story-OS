@@ -54,19 +54,29 @@ SORT ch_code ASC
 
 ## 角色文档结构
 
-每位角色的标准文档结构：
+每位角色的文档结构：
 
 ```
 CH-NNN_NAME/
-├── Character_Snapshot.md    ← 角色速查（AI 优先读取，Dataview 自动索引）
-├── BIBLE.md                 ← 全面角色圣经
-├── DNA.md                   ← 不可变的角色核心 (canon_level: immutable)
-├── PSYCHOLOGY.md            ← 心理分析、动机、恐惧
-├── RELATIONSHIPS.md         ← 与其他角色的关系
-├── GROWTH.md                ← 角色成长弧
-├── DIALOGUE.md              ← 语言风格与说话模式
-└── PROMPT.md                ← AI 角色模拟提示词
+├── Character_Snapshot.md      ← 角色速查（AI 优先读取）
+├── Identity.md                ← Layer 01：身份
+├── History.md                 ← Layer 02：历史
+├── Core.md                    ← Layer 03：核心（DNA、价值观、原则）
+├── Mind.md                    ← Layer 04：思维模式
+├── Emotion.md                 ← Layer 05：情感世界
+├── Shadow.md                  ← Layer 06：阴影（创伤、恐惧、谎言）
+├── Decision_Engine.md         ← Layer 07：决策引擎
+├── Behaviour.md               ← Layer 08：行为模式
+├── Voice_Engine.md            ← Layer 09：语言引擎
+├── Relationship_Engine.md     ← Layer 10：关系引擎
+├── Growth_Engine.md           ← Layer 11：成长引擎
+├── Performance.md             ← Layer 12：演绎
+├── Prompt.md                  ← Output：AI 生成 Prompt
+├── Dialogue_Samples.md        ← Output：经典对白样本
+└── BIBLE.md                   ← 完整角色圣经
 ```
+
+详细标准参见 [[00_KERNEL/TEMPLATES/CHARACTER_OS_STANDARD.md|Character OS Standard]]。
 
 ---
 

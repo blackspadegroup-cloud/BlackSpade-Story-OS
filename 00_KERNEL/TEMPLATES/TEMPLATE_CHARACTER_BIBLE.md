@@ -12,12 +12,13 @@ tags:
   - template
   - character
   - bible
+
 ---
 
 # 【角色全名】— 角色圣经
 
-> **说明：** 本文档是角色圣经模板。请将所有以 `【】` 标记的内容替换为实际信息。YAML 中的 `type: character` 保持不变。
-
+> **说明：** 本文档是角色圣经模板。完整的 12 层 Character OS 标准请参见 [[CHARACTER_OS_STANDARD.md|Character OS Standard]]。
+> 圣经是各 Layer 的汇总文件，并非替代 12 Layer 的独立文档。
 ---
 
 ## 角色概述
